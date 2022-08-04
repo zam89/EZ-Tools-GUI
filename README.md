@@ -43,7 +43,7 @@ This list may expand in future if new there is new important artifact that need 
 ## How To Use ##
 1. Extract forensic artifact that has been collected from target host.
    - It is highly recommended to use **KAPE** as artifact collector.
-2. Extract the EZTGui.zip. Run the tool from extracted folder. 
+2. Download from ```/releases``` & extract the EZTGui v**X.X**.zip. Run the tool from extracted folder. 
 3. Select artifact path e.g., ***C:\artifact_folder\Hostname\C\\***
    - Ensure the selected path is up until ***\C\\*** only e.g., ***I:\kape_output\DESKTOP-J38IE81\2022-02-20T140154_DESKTOP-J38IE81\C\\***
    - <img src="/screenshot/EZTGui_screenshot1.png">
