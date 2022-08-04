@@ -1,5 +1,5 @@
 # EZ-Tools-GUI
-Making KAPE forensic artifact processing easier
+Eric Zimmerman Tools GUI - Making KAPE forensic artifact processing easier
 
 <p align="center">
 <img src="/screenshot/EZTGui_screenshot.png">
@@ -18,9 +18,7 @@ This tool is not any different/advance than KAPE itself; since KAPE also can be 
 ## Build Status ##
 ![build](https://img.shields.io/badge/build-passing-green) ![release](https://img.shields.io/badge/release-1.3-blue) ![ps](https://img.shields.io/badge/ps%20(wpf)-v5-blue)
 
-**Currently on version 1.3**
-
-**Currently W10 Timeline/WxTCmd is not functioning yet**
+**! Currently W10 Timeline/WxTCmd is not functioning yet. !**
 
 This tool was built based on **PowerShell & WPF** (Windows Presentation Foundation); Microsoft's latest approach to a GUI framework, used with the .NET framework.
 
