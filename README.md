@@ -20,10 +20,12 @@ This tool is not any different/advance than KAPE itself; since KAPE also can be 
 
 **Currently on version 1.3**
 
+**Currently W10 Timeline/WxTCmd is not functioning yet**
+
 This tool was built based on **PowerShell & WPF** (Windows Presentation Foundation); Microsoft's latest approach to a GUI framework, used with the .NET framework.
 
 Currently it's on working/passing state; the loop logic implemented is a bit out-of-norm. I'll rework that if I got ideas for it. In future, this can be expanded to process others artifact.
- 
+
 ## Dependencies ##
 Its currently using **Eric Zimmerman tools** to process necessary artifact. Tools listed as below:
 1. AmcacheParser.exe
