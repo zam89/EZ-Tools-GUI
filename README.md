@@ -18,7 +18,10 @@ This tool is not any different/advance than KAPE itself; since KAPE also can be 
 ## Build Status ##
 ![build](https://img.shields.io/badge/build-passing-green) ![release](https://img.shields.io/badge/release-1.3-blue) ![ps](https://img.shields.io/badge/ps%20(wpf)-v5-blue)
 
+**Currently on version 1.3**
+
 This tool was built based on **PowerShell & WPF** (Windows Presentation Foundation); Microsoft's latest approach to a GUI framework, used with the .NET framework.
+
 Currently it's on working/passing state; the loop logic implemented is a bit out-of-norm. I'll rework that if I got ideas for it. In future, this can be expanded to process others artifact.
  
 ## Dependencies ##
@@ -68,5 +71,5 @@ This list may expand in future if new there is new important artifact that need 
 
 **A:** To be honest, this tool actually created as I’m lazy enough to manually type in command parameter that the Eric Zimmerman tools required to processing artifact. Not to mentioned when you wrongly copy paste different KAPE path and hit ENTER too fast until you realized you using wrong artifact for wrong case that you currently investigating.
 
-## Notes ##
+## Humble Note ##
 Please bear in mind that I'm not a coder nor a software developer. I code just to make my work easier. If the codes run, its run. But I'm more than happy if anyone wanna to contribute to the tools development.
