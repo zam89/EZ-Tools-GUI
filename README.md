@@ -16,7 +16,7 @@ EZ Tools GUI - Making KAPE forensic artifact processing easier within several cl
 This tool is not any different/advance than KAPE itself; since KAPE also can be used to process its own collected data via KAPE GUI (gkape.exe). But, if you aren't familiar with KAPE GUI, it can take some times to search and ensure the correct module to be use to process artifact that we want.
 
 ## Build Status ##
-![build](https://img.shields.io/badge/build-passing-green) ![release](https://img.shields.io/badge/release-1.3-blue) ![ps](https://img.shields.io/badge/ps%20(wpf)-v5-blue)
+![build](https://img.shields.io/badge/build-passing-green) ![release](https://img.shields.io/badge/release-1.4-blue) ![ps](https://img.shields.io/badge/ps%20(wpf)-v5-blue)
 
 **! Currently W10 Timeline/WxTCmd is not functioning yet. !**
 
